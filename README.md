@@ -48,6 +48,7 @@ Employee_Burnout_Prediction/
 5. Open your browser and go to http://localhost:5000
 
 📈 Model Used
+
 Trained using Scikit-learn classifiers such as:
 
 Logistic Regression
@@ -59,4 +60,5 @@ Support Vector Machines (SVM)
 Model performance is evaluated using accuracy, precision, recall, and F1-score.
 
 📌 Purpose
+
 This project was developed as part of a machine learning internship to demonstrate the application of data science and web deployment in solving real-world problems.
